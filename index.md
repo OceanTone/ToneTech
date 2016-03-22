@@ -1,0 +1,11 @@
+#F2E资源汇总
+***
+###优秀名站
+*[稀土掘金]http://gold.xitu.io/#/explore
+*[发现Div.io](http://div.io/digg)
+***
+###Blogs
+*[阮一峰JS](http://www.ruanyifeng.com/blog/javascript/)
+***
+###Project
+***
