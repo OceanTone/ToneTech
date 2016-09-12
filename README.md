@@ -1,16 +1,13 @@
-# ToneTech F2E资源汇总
+# ToneTech 资源汇总
 ***
 
-### Blogs
-* [AllowTeam](http://www.alloyteam.com/)
-* [阮一峰JS](http://www.ruanyifeng.com/blog/javascript/)
-
-
-### blog site
+### Blog site
 * [稀土掘金](http://gold.xitu.io/#/explore)
 * [发现Div.io](http://div.io/digg)
 * [菜鸟教程](http://www.runoob.com/)
 * [伯乐在线Web](http://web.jobbole.com/)
+* [AllowTeam](http://www.alloyteam.com/)
+* [阮一峰JS](http://www.ruanyifeng.com/blog/javascript/)
 
 ### CodeGuide
 - [前端开发规范](http://alloyteam.github.io/CodeGuide/) by AllowTeam
