@@ -10,6 +10,7 @@
 * [阮一峰JS](http://www.ruanyifeng.com/blog/javascript/)
 
 ### CodeGuide
+- [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 - [前端开发规范](http://alloyteam.github.io/CodeGuide/) by AllowTeam
 - [Angular代码规范](http://www.reqianduan.com/1722.html) by john_papa
 
